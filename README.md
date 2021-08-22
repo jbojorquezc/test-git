@@ -6,4 +6,4 @@ IEXE Repositorio prueba
  
  Ejercicios de git
  
- ![](C:\Users\JBOJORQUEZ\.git\log.png)
+ ![image](C:\Users\JBOJORQUEZ\.git\log.png)
